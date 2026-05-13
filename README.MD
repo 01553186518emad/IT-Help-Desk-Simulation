@@ -148,7 +148,7 @@ This project drew on competencies across these technical areas:
 - [GitHub](https://github.com/01553186518emad1)
 - [LinkedIn](www.linkedin.com/in/emadsayed
 
-/)</details>
+)</details>
 
 <br>
 <br>
