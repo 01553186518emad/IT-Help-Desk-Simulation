@@ -14,7 +14,7 @@ But the truth is, this error is old and has been known for a long time, and it's
 
 <p align="center">
   <a href="dashboard.md">
-    <img src="assets/readme/dashboard.webp" alt="Ticket Dashboard Preview" width="850"/>
+    <img src="file:///C:/Users/System-IT/Downloads/699397754_1456273319845850_3344656049209958979_n.jpg" alt="Ticket Dashboard Preview" width="850"/>
   </a>
 </p>
 
