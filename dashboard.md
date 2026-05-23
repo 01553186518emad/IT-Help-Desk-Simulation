@@ -16,6 +16,7 @@
 | 008    | Shared folder access denied (Legal)           | 🔴 High   | ✅ Resolved    | Mohamed Ragab | 2025-08-01 | 2025-08-02      | 1 day           | [View](tickets/ticket-008/README.md) |
 | 009    | Laptop not charging (IT Intern)               | 🟢 Low    | ❌ Cancelled   | Mohamed Ragab | 2025-08-05 | —               | —               | [View](tickets/ticket-009/README.md) |
 | 010    | VPN not connecting (Remote User)              | 🔴 High   | ⏳ In Progress | Mohamed Ragab | 2025-08-06 | —               | —               | [View](tickets/ticket-010/README.md) |
+| 011    | Laptop not charging (IT Intern)               | 🟢 Low    | ✅ Resolved   | Mohamed Ragab | 2026-05-23 | —                | —               | [View](tickets/ticket-011/README.md) |
 
 ---
 
