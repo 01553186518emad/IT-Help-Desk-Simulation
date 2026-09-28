@@ -151,6 +151,3 @@ This project drew on competencies across these technical areas:
 <br>
 <br>
 
-<p align="center"> 
-  <a href="dashboard.md">Dashboard</a>
-</p>
