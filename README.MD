@@ -145,7 +145,7 @@ This project drew on competencies across these technical areas:
 
 **Connect with me:**
 
-- [GitHub](https://github.com/01553186518emad1)
+- [GitHub](https://github.com/01553186518emad)
 - [LinkedIn](https://www.linkedin.com/in/emadsayed/)</details>
 
 <br>
