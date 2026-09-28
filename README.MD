@@ -6,7 +6,8 @@ This project showcases my troubleshooting skills, clear documentation, and abili
 <br>
 
 <p align="center">
-  <a href="dashboard.md">
+  <a href="https://github.com/01553186518emad/IT-Help-Desk-Simulation/issues/2#issue-5613805131">
+
     <img src="tickets/ticket-011/assets/readme/dashboard.webp" alt="Ticket Dashboard Preview" width="850"/>
 
 <img src="tickets/ticket-011/assets/readme/dashboard.webp" />
