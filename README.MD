@@ -6,12 +6,8 @@ This project showcases my troubleshooting skills, clear documentation, and abili
 <br>
 
 <p align="center">
-  <a href="https://private-user-images.githubusercontent.com/152063314/660251928-0b09fd09-5054-4faf-9707-c9bbedba779c.svg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTA1OTYzODMsIm5iZiI6MTc5MDU5NjA4MywicGF0aCI6Ii8xNTIwNjMzMTQvNjYwMjUxOTI4LTBiMDlmZDA5LTUwNTQtNGZhZi05NzA3LWM5YmJlZGJhNzc5Yy5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkyOFQxMTQ4MDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lMzA1MmUwZDAyYjRmNmU0NTNlNGQyNjM1NTkyMmZkYjIyN2Y1NzFmYjY2OTRjZmNmNGRjNDhjMWE1NTkzNDAzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZzdmclMkJ4bWwifQ.daIqnEumD8HIYSrrTA9fLKj_-vmoAHL60-NwLXElj5k">
-
+  <a href="dashboard.md">
     <img src="tickets/ticket-011/assets/readme/dashboard.webp" alt="Ticket Dashboard Preview" width="850"/>
-
-<img src="tickets/ticket-011/assets/readme/dashboard.webp" />
-
   </a>
 </p>
 
@@ -156,5 +152,5 @@ This project drew on competencies across these technical areas:
 <br>
 
 <p align="center"> 
-  <a href="/dashboard.md">Dashboard</a>
+  <a href="dashboard.md">Dashboard</a>
 </p>
