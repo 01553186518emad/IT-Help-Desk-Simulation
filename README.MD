@@ -7,7 +7,7 @@ This project showcases my troubleshooting skills, clear documentation, and abili
 
 <p align="center">
   <a href="dashboard.md">
-    <img src="https://YOUR_IMAGE_URL.png" alt="Ticket Dashboard Preview" width="850"/>
+    <img src="https://github.com/01553186518emad/IT-Help-Desk-Simulation/issues/2#issue-5613805131" alt="Ticket Dashboard Preview" width="850"/>
   </a>
 </p>
 
