@@ -6,12 +6,8 @@ This project showcases my troubleshooting skills, clear documentation, and abili
 <br>
 
 <p align="center">
-  <a href="dashboard.md">
-    <img src="YOUR_DIRECT_IMAGE_URL" alt="Ticket Dashboard Preview" width="850"/>
-  </a>
+  <a href="dashboard.md"><strong>📊 View Ticket Dashboard</strong></a>
 </p>
-
-<br>
 
 ---
 
