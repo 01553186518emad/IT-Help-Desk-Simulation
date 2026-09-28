@@ -7,7 +7,7 @@ This project showcases my troubleshooting skills, clear documentation, and abili
 
 <p align="center">
   <a href="dashboard.md">
-    <img src="assets/readme/dashboard.webp" alt="Ticket Dashboard Preview" width="850"/>
+    <img src="src/assets/readme/dashboard.webp" alt="Ticket Dashboard Preview" width="850"/>
   </a>
 </p>
 
