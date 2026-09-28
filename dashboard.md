@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="[/README.MD]([https://cdn.hashnode.com/res/hashnode/image/upload/v1737504143275/d8e518ff-3f72-4147-9923-53588bfcf839.png](https://github.com/01553186518emad/IT-Help-Desk-Simulation.git))">Return to Read Me</a> 
+ 
     <a href="dashboard.md"> <img src="https://static.dashthis.com/media/2244/blog_agency_reporting.svg" alt="Return to Read Me" width="850"/></a>
 </p>
 
